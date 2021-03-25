@@ -13,6 +13,8 @@
   },
   "private": true,
   "dependencies": {
+    "express":"*",
+    "body-parser":"*",
     "@angular/animations": "~8.2.5",
     "@angular/common": "~8.2.5",
     "@angular/compiler": "~8.2.5",
